@@ -27,7 +27,7 @@
 					  Department of Electronics and Communications
 ___
 
-                                                   TABLE OF CONTENTS
+#                                                   TABLE OF CONTENTS
 
 | Sr No. | LIST OF PRACTICALS|
 |---|--|
